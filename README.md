@@ -1,4 +1,4 @@
-![alt text](https://github.com/srinoid/Sri-Ganesh-Pooja-Vidhanam-Privacy-Policy/blob/main/features_image.jpeg?raw=true)
+![alt text](https://github.com/SLATechnologies/Sri-Ganesh-Pooja-Vidhanam-Privacy-Policy/blob/main/features_image.jpeg?raw=true)
 # Sri Ganesh Pooja Vidhanam Android Application Privacy Policy
 
 **App:** Sri Ganesh Pooja Vidhanam\
